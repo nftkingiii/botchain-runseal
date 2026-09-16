@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "packageManager": "npm@11.6.2",
   "engines": { "node": ">=20.19.0", "npm": ">=11.0.0" },
-  "packageManager": "npm@11.6.2",
-  "engines": { "node": ">=20.19.0", "npm": ">=11.0.0" },
   "description": "Runseal commits to an execution intent before a BOT Chain result is accepted. This repository contains the `RunsealRegistry` contract and its Foundry tests.",
   "main": "index.js",
   "scripts": {
