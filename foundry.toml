@@ -1,0 +1,10 @@
+[profile.default]
+src = 'contracts'
+test = 'contracts/test'
+script = 'script'
+out = 'out'
+libs = ['lib']
+solc_version = '0.8.24'
+
+[rpc_endpoints]
+bot_testnet = 'https://rpc.bohr.life'
